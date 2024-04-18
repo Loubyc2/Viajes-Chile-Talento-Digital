@@ -28,7 +28,7 @@ section:first-of-type {
 
 @media (max-width:768px) {
     .collapse.navbar-collapse {
-        background-color: #ffffff;
+        background-color: #f5f5f5;
         color: #000000;
         width: 50px !important;
         padding: 8px;
