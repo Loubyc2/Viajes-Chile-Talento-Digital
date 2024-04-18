@@ -4,7 +4,7 @@ header {
     left: 0;
     width: 100%;
     z-index: 1000;
-    transition: background-color 0.5s ease;
+    transition: background-color 0.6s ease;
 }
 
 section:not(:first-of-type) {
